@@ -6,6 +6,8 @@ make sure you download the .exe file, "UnityPlayer.dll", and the RAB_Data folder
 
 Under Assets/Scripts, there are three scripts made by me that given the overall functionality to the main GameObjects.
   -Camera_controller.cs: Controls the movement of the camera to follow the ball without adjusting the angle.
-  -Player_Controller.cs: Contains  funtionality of ball collision with pivk up objects, UI controls, and game logic
+  
+  -Player_Controller.cs: Contains  funtionality of ball collision with pivk up objects, UI controls, and game logic.
+  
   -Rotator.cs: Controls the rotation of the pick up game objects.
   
